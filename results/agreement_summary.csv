@@ -1,0 +1,6 @@
+dimension,exact_agreement,within_one_point,cohen_kappa,interpretation
+resolution,0.4,0.68,0.256,fair agreement
+accuracy,0.4,0.72,0.224,fair agreement
+empathy,0.4,0.96,0.238,fair agreement
+naturalness,0.2,0.72,-0.121,worse than chance
+policy_adherence,0.72,0.96,0.526,moderate agreement
